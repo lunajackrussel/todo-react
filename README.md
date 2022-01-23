@@ -1,2 +1,2 @@
-# todo-react
-Created with CodeSandbox
+# ToDo application
+Practice ToDo application using React.
